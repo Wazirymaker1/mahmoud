@@ -1,0 +1,14 @@
+{
+    "keys": {
+        "ABC123": {
+            "username": "ahmed",
+            "expiry": "2026-12-31",
+            "active": true
+        },
+        "XYZ789": {
+            "username": "mohamed",
+            "expiry": "2026-05-01",
+            "active": true
+        }
+    }
+}
