@@ -2,17 +2,17 @@
     "keys": {
         "Bendary": {
             "username": "Bendary",
-            "expiry": "2026-12-31",
+            "expiry": "2027-12-31",
             "active": true
         },
         "mohammed23": {
             "username": "mohamed",
-            "expiry": "2030-05-01",
+            "expiry": "2027-05-01",
             "active": true
         },
         "selva": {
             "username": "selva",
-            "expiry": "2030-06-01",
+            "expiry": "2027-06-01",
             "active": true
         },
         "GHOST": {
@@ -22,7 +22,7 @@
         },
         "HANO": {
             "username": "HANO",
-            "expiry": "2026-08-20",
+            "expiry": "2026-03-20",
             "active": true
         },
         "user4": {
