@@ -35,7 +35,7 @@
             "expiry": "2026-03-26",
             "active": true
         },
-        "freee": {false
+        "freee": {
             "username": "freee",
             "expiry": "2026-04-21",
             "active": false
