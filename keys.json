@@ -18,7 +18,7 @@
         "GHOST": {
             "username": "GHOST",
             "expiry": "2026-04-15",
-            "active": true
+            "active": false
         },
         "Free": {
             "username": "Free",
