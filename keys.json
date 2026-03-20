@@ -59,7 +59,7 @@
         "Abdallah": {
             "username": "Abdallah",
             "expiry": "2026-12-04",
-            "active": false
+            "active": true
         },
         "Lava": {
             "username": "lava",
